@@ -1,0 +1,11 @@
+# Зависимости бота v2 (Haystack + DocLing + OpenAI API + Pinecone + Telegram).
+# Локальные Sentence Transformers не используются: эмбеддинги только через OpenAI API.
+haystack-ai
+pinecone-haystack
+pinecone
+openai
+tiktoken
+python-dotenv
+pyTelegramBotAPI
+docling
+docling-haystack
